@@ -1,7 +1,7 @@
 "use strict";
 let typewriter = document.getElementById("typewriter").innerHTML;
 let counter = 0;
-let speed = 250;
+let speed = 180;
 
 document.getElementById("typewriter").innerHTML = "";
 
